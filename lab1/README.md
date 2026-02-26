@@ -1,6 +1,6 @@
 # Лабораторная работа №1
 ## Создание модели классификации изображений овощей/фрутов
-
+[Веса моделей](https://drive.google.com/file/d/1VM8KXjRX5b9g2SkU5h_4CIfxyqWaJm3s/view?usp=sharing)
 ## Результаты
 
 | model | accuracy |
