@@ -3,11 +3,11 @@
 [веса лучшей модели](/)
 ## Описание
 
--Архитектура модели efficientnet-b2  + UnetPlusPlus
--LR 3e-4, img_sz 512, extract_edges
--Аугментации HorizontalFlip, VerticalFlip, RandomRotate90, RandomBrightnessContrast, CoarseDropout
--Loss функция: (DiceLoss + BCEWithLogitsLoss + FocalLoss) + edge_weights * BCEWithLogitsLoss
--планировщик: CosineAnnealingWarmRestarts
--сегментации маски и обнаружения граней
+- Архитектура модели efficientnet-b2  + UnetPlusPlus
+- LR 3e-4, img_sz 512, extract_edges
+- Аугментации HorizontalFlip, VerticalFlip, RandomRotate90, RandomBrightnessContrast, CoarseDropout
+- Loss функция: (DiceLoss + BCEWithLogitsLoss + FocalLoss) + edge_weights * BCEWithLogitsLoss
+- планировщик: CosineAnnealingWarmRestarts
+- сегментации маски и обнаружения граней
 
 Результат 91.1% Public Score
