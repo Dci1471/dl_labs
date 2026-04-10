@@ -1,6 +1,6 @@
 # Лабораторная работа №3
 ## Сегментация
-[веса лучшей модели](/)
+[веса лучшей модели](https://drive.google.com/file/d/1jAzj6UHcvJx8QLNuxunZwGdCUJTH2OTC/view?usp=sharing)
 ## Описание
 
 - Архитектура модели efficientnet-b2  + UnetPlusPlus
